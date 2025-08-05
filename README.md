@@ -13,12 +13,14 @@ Features:
 
 
 Pages Included:
- `index.html' - Login page \n
- `Details.html`  Form to collect user information (Name, Age, Aadhar, etc.) \n
- `diseases.html`  Central page to select a disease category \n
- `diabetes.html` Information about Diabetes \n
- `cardio.html`  Information about Cardiovascular Diseases \n
- `infect.html`  Information about Infectious Diseases \n
- `style.css`  Custom styles and animations 
+ | File | Description |
+|------|-------------|
+| `index.html` | Login page |
+| `Details.html` | Form to collect user information (Name, Age, Aadhar, etc.) |
+| `diseases.html` | Central page to select a disease category |
+| `diabetes.html` | Information about Diabetes |
+| `cardio.html` | Information about Cardiovascular Diseases |
+| `infect.html` | Information about Infectious Diseases |
+| `style.css` | Custom styles and animations |
 
 Some image files like `Car.jpeg`, `Diabetes.jpeg`, `Inf.jpeg`, and `Resp.jpeg` are used to visually represent each disease section.
