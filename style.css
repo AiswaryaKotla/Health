@@ -1,0 +1,39 @@
+body {
+    background: url('eye.jpg') no-repeat center center fixed;
+    background-size: cover;
+    animation: fadeIn 2s ease-in;
+}
+
+.card {
+    border-radius: 15px;
+    transition: transform 0.3s;
+    height: 100%;
+}
+
+.card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 100%; 
+    height: auto;
+    max-width: 500px; 
+    margin: 0 auto; 
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+h1 {
+    animation: slideIn 2s ease-out;
+    color: white;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideIn {
+    from { transform: translateY(-50px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
