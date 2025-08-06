@@ -1,4 +1,4 @@
-### Health Awareness Web App
+# Health Awareness Web App
 
 This is a simple web-based health awareness portal developed as part of my community service project in 2024 during my second year of college. The goal of this project is to provide essential information about major health issues and promote awareness through an interactive, user-friendly website.
 
@@ -12,7 +12,7 @@ This is a simple web-based health awareness portal developed as part of my commu
   - Respiratory Diseases
 
 
-# Pages Included:
+### Pages Included:
  | File | Description |
 |------|-------------|
 | `index.html` | Login page |
